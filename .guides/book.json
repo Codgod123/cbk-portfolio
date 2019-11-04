@@ -1,0 +1,17 @@
+{
+ "name": "Kimani-portfolio",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "51c5d867-6338-71f3-2266-63a3a94c2a98",
+   "pageId": "51c5d867-6338-71f3-2266-63a3a94c2a98",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "9b207fbf-721f-3bac-6732-9e4d6d1c15a6",
+   "pageId": "9b207fbf-721f-3bac-6732-9e4d6d1c15a6",
+   "type": "page"
+  }
+ ]
+}

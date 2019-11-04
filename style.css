@@ -1,0 +1,97 @@
+h1 {
+  color:black;
+  font-size:100px;
+  margin:0;
+}
+p {
+  color:black;
+  font-size:70px;
+  background-color:green;
+}
+img {
+  height:300px;
+}
+body {
+  background-color: black;
+  font-family:'Tangerine', cursive;
+  margin:0;
+}
+h1, h2, h3 {
+  font-family:'Lobster', cursive;
+}
+.big-body-nav {
+  background-color:green;
+  overflow:auto;
+}
+.big-body-nav a {
+  color:black;
+  float:right;
+  margin-right:10px;
+  padding:10px;
+  font-size:20px;
+}
+.big-body-nav a:hover {
+  color:white;
+}
+h3 {
+  background-color:green;
+  display:inline;
+  font-size:40px;
+  margin-left:15px;
+}
+.landing {
+  background-image:url('https://images.unsplash.com/photo-1560972550-aba3456b5564?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80');
+  height:160vh;
+  padding:30px;
+  text-align:left
+}
+.about {
+  background-color:black;
+}
+.work {
+  background-color:green;
+  height:450px;
+}
+.project-card {
+  height:300px;
+  width:33.33%;
+  background-color:black;
+  float:left;
+  text-align: center;
+}
+.work img {
+  height:200px;
+}
+#project-two {
+}
+#project-three {
+  background-color:black;
+}
+.about ul {
+  color:green;
+  font-size:30px;
+}
+.about ol {
+  color:green
+}
+.about h2 {
+  color:white;
+  margin:0
+}
+.about a:hover {
+  color:green;
+  background-color: blue;
+  font-size:52px;
+  border: 5px solid green;
+  transition:1s
+}
+.about a {
+  color:black background-color: pink;
+  font-size:32px;
+  border: 5px dashed white;
+  text-decoration:none;
+}
+.debates {
+  background-color:green;
+  font-size:30px;
+}
